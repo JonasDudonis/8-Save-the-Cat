@@ -4,7 +4,7 @@
 
 ## No pets were harmed during the project time!
 
-Site published at https://jonasdudonis.github.io/8-Kate-ir-peiliai/
+Site published at https://jonasdudonis.github.io/8-Save-the-Cat/
 
 ## Project features
 - lovely cat
